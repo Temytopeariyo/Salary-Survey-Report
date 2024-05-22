@@ -11,15 +11,10 @@ You can interact with the report [HERE]()
 The data used for this project was from IJAN Tutor Dataset.
 
 ### Task
-* Industry that pay Most:
-•	Analyze and compare average salaries across different industries.
-•	Visualize industry-wise salary distributions.
-
-* Salary growth with years of experience.
-•	Explore how salaries change with increasing years of experience.
-•	Identify trends in salary growth over the years.
-
-
+* Industry that pay Most: Analyze and compare average salaries across different industries and Visualize industry-wise salary distributions.
+  
+* Salary growth with years of experience: Explore how salaries change with increasing years of experience and Identify trends in salary growth over the years.
+  
 * Artist Most streamed track and total streams Correlation: Exploring correlations between tracks and number of streams.
 
 * Top 5 most streamed tracks and the artists: Top N (5) most streamed tracks was recognised in relation to the artists.
