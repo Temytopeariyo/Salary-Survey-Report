@@ -1,31 +1,24 @@
-# Spotify-Music-Analysis Report
+# Salary-Survey-Analysis Report
 
 ### Introduction
 
-The Spotify Music Analysis Report delves into the listening habits and trends of Spotify users. By analyzing streaming data, the report uncovers fascinating insights into popular genres, top artists, and hit songs. It examines how different factors like seasonality, geographic location, and user demographics influence music preferences. The analysis also highlights emerging trends, such as the rise of independent artists and the growing popularity of niche genres. This comprehensive report helps music industry professionals, artists, and marketers understand the evolving landscape of music consumption, guiding them in making strategic decisions to engage audiences more effectively.
-
-Hence, I Welcome you to the intriguing world of data analysis! This analysis aims to uncover valuable insights and trends that lie within the data, shedding light on the dynamics of online streams, 
-listeners behavior, and more. Join me on this adventure journey as we navigate through the track numbers, revealing actionable findings that can drive strategic entertainment decisions and enhance positive artists performance in the forseeable future. 
-This musical tracks Performance report provides information on tracks online streams, Artists name, Track relaease date and track performance based on streams. The report allows you to visualise at a glance the tracks performance as they relate to different artists and their performance based on danceability,	valence, energy,	acousticness,	instrumentalness, liveness, and speechiness of their tracks.
-
-
-
-!(![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/17ab73f3-21b9-4770-aba4-1ee30d9aabef)
-
-
-This way, Artists can see their performance and improve on their musical (song recording) strategy.
-
+This report provides a comprehensive look into salary trends across various industries and job roles. By examining responses from a diverse group of professionals, the analysis uncovers key insights into average salaries, regional pay differences, and the impact of experience and education on earnings whin in turn helps both employers and employees make informed decisions regarding salary negotiations, career planning, and workforce strategies. This is going to be an interesting analysis because, it aims to uncover valuable insights and trends that lie within the data, shedding light on the dynamics of workers salary in relations to the industries, years of experience and location.
 
 You can interact with the report [HERE]()
 
 
 ### Data Source
-The data used for this project was from Onyx Data (DataDNA Dataset Challenge).
+The data used for this project was from IJAN Tutor Dataset.
 
 ### Task
-* Streaming trends: Analyzing yearly streams as it relates to two decades interval.
+* Industry that pay Most:
+•	Analyze and compare average salaries across different industries.
+•	Visualize industry-wise salary distributions.
 
-* Monthly Track streaming Performance: Recognizing top month with highest average streams based on tracks. 
+* Salary growth with years of experience.
+•	Explore how salaries change with increasing years of experience.
+•	Identify trends in salary growth over the years.
+
 
 * Artist Most streamed track and total streams Correlation: Exploring correlations between tracks and number of streams.
 
