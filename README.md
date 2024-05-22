@@ -22,9 +22,9 @@ The data used for this project was from IJAN Tutor Dataset.
 * Playlist and Artist names: The distribution portray how spotify playlist affect Artist performance.
 
 ### Data Preparation and Transformation
-To make ready dataset for the analysis, Power Bi was used to turn the unrelated sources of data into coherent, visually immersive, and interactive insights. In response to the given task, a careful assessment of the necessary database tables was carried out. Specifically, the database table was imported from excel and tested for errors. The table which formed the basis for the subsequent steps was not free from as Streams, in shazam charts, Key column  were all detected having an error and empty cells which were corrected, replaced with 0 and None respectively. The Day, Month and Year columns were also harmonised into a new single column for easy understanding. The 3 columns were subsequently deleted from the table as the new one that combined all has been added to the table. 
+To make ready dataset for the visuals, Excel was used to turn the unrelated sources of data into coherent, visually immersive, and interactive insights. In response to the given task, a careful assessment of the database table was carried out. Specifically, the database table was extremely dirty, hence calls for thorough cleaning. Some values were missing in some column but were replaced by 0 while many cells in some columns were also empty but were filled with NONE. 
 
-The power query was closed and the dataset applied accordingly and ready for visuals. From this dataset, another table was created for the date so as to have it according to Day, Month and year of track relaese with the formular below:
+The dataset was also imported to the power query for further cleaning afterwhich was closed and applied for visuals.
 
 
 !(![image](https://github.com/Temytopeariyo/Spotify-Music-Analysis/assets/81833143/ba0e30f8-70fb-4623-8c19-bcab0f926ebd)
